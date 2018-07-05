@@ -2,12 +2,11 @@
 /*! header */
 
 .hero {
-	padding: 0;
+	padding: 0;	
 }
 
 .logo {
 	min-width: 100px;
-	max-width: 1	00px: 
 	height: auto;
 	padding: 10%;
 	position: absolute;
@@ -18,8 +17,11 @@
 	background-color: white;
 	min-width: 100%;
 	min-height: 400px;
+	margin-bottom: 50px;
 }
 
-#photos {
-
+#projects {
+	margin-left: 10px;
+	margin-right: -10px; 
 }
+
