@@ -1,9 +1,15 @@
 
 /*! header */
 
-img.logo {
-	max-width: 500px;
+.hero {
+	padding: 0px 20%;
+}
+
+.logo {
+	min-width: 400px;
+	height: auto;
 	padding: 10%;
+	position: absolute;
 }
 
 #header {
