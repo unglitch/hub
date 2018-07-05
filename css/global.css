@@ -1,0 +1,14 @@
+
+/*! header */
+
+img.logo {
+	max-width: 500px;
+	padding: 10%;
+}
+
+#header {
+	background-image: url("../images/places.png");
+	background-color: white;
+	min-width: 100%;
+	min-height: 200px;
+}
