@@ -2,11 +2,12 @@
 /*! header */
 
 .hero {
-	padding: 0px 20%;
+	padding: 0;
 }
 
 .logo {
-	min-width: 400px;
+	min-width: 100px;
+	max-width: 1	00px: 
 	height: auto;
 	padding: 10%;
 	position: absolute;
@@ -16,5 +17,9 @@
 	background-image: url("../images/places.png");
 	background-color: white;
 	min-width: 100%;
-	min-height: 200px;
+	min-height: 400px;
+}
+
+#photos {
+
 }

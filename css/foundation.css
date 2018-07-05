@@ -3339,8 +3339,8 @@ select {
     background-color: rgba(226, 244, 98, .5);
     color: #0a0a0a; }
   .callout.secondary {
-    background-color: #eaeaea;
-    color: #0a0a0a; }
+    background-image: url("../images/groupShot.JPG");;
+    color: white; }
   .callout.success {
     background-color: #e1faea;
     color: #0a0a0a; }
