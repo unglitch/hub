@@ -25,7 +25,8 @@
 	margin-right: -10px; 
 }
 
-strong {
+strong,
+.bold {
 	font-weight: bold;
 }
 
